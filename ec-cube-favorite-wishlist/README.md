@@ -62,8 +62,11 @@ graph TD
 | 01 | **Favorite Core Architecture (End-to-End Pipeline)** | [01_favorite_core_architecture.md](./01_favorite_core_architecture.md) | Requirement မှ Twig အထိ အဆင့် ၇ ဆင့် စလုံးကို Code အပြည့်အစုံဖြင့် လက်တွေ့ တည်ဆောက်ပြခြင်း |
 | 02 | **Add, Remove & Favorite List** | [02_add_remove_and_list.md](./02_add_remove_and_list.md) | AJAX ဖြင့် Favorite ထည့်ခြင်း/ဖျက်ခြင်း၊ MyPage Favorite List (`Mypage/favorite.twig`), Guest User ကိုင်တွယ်ပုံ |
 | 03 | **Favorite Counts & Solving N+1 Queries** | [03_favorite_counts_and_n_plus_one.md](./03_favorite_counts_and_n_plus_one.md) | Header Favorite Badge, အခြားသူများ၏ Favorite အရေအတွက် ("❤️ ၁၂၈ ယောက် မှတ်ထားသည်"), N+1 Query ကာကွယ်နည်း |
-| 04 | **Favorite Ranking & History Marketing** | [04_favorite_ranking_and_history.md](./04_favorite_ranking_and_history.md) | အကြိုက်ဆုံး အများဆုံး ပစ္စည်းများ Ranking (お気に入りランキング), စျေးလျှော့သည့်အခါ Auto Email ပို့သော Marketing Logic |
+| 04 | **Favorite Ranking & Marketing** | [04_favorite_ranking_and_history.md](./04_favorite_ranking_and_history.md) | အကြိုက်ဆုံး အများဆုံး ပစ္စည်းများ Ranking (お気に入りランキング), စျေးလျှော့သည့်အခါ Auto Email ပို့သော Marketing Logic |
 | 05 | **Favorite Admin Screen & Analytics** | [05_favorite_admin_screen.md](./05_favorite_admin_screen.md) | Admin ဘက်ခြမ်းမှ မည်သည့် Customer က မည်သည့်ပစ္စည်းကို Favorite လုပ်ထားကြောင်း စစ်ဆေးနိုင်သော Screen ဖန်တီးနည်း |
+| 06 | **Favorite History Tracking** | [06_favorite_history_tracking.md](./06_favorite_history_tracking.md) | အကြိုက်ဆုံး မှတ်သား/ဖျက်ပစ်/ဝယ်ယူမှု သမိုင်းကြောင်း (`dtb_customer_favorite_history`)၊ Entity၊ History Logging Service၊ အော်ဒါတက်ချိန် Purchase Conversion ခြေရာခံခြင်း |
+| 07 | **Favorite CSV Export & Settings** | [07_favorite_csv_export_and_settings.md](./07_favorite_csv_export_and_settings.md) | EC-CUBE CSV စနစ်ဖြင့် CSV Type အသစ် (ID: 10) တည်ဆောက်ခြင်း၊ Admin CSV 設定 ချိတ်ဆက်ခြင်း၊ Mypage နှင့် Admin Favorite CSV ထုတ်ယူနည်း |
+| 08 | **Top Client Tasks & Troubleshooting** | [08_top_client_tasks_and_troubleshooting.md](./08_top_client_tasks_and_troubleshooting.md) | **Client များ အများဆုံး တောင်းဆိုသော လုပ်ငန်းတာဝန် ၅ ခု** (Guest Favorite Auto-Sync, 一括カート追加, SOLD OUT Badge, Heart Icon Debounce, Excel 文字化け ဖြေရှင်းနည်း) |
 
 ---
 
