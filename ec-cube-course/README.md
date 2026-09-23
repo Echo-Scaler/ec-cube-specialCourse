@@ -45,6 +45,8 @@
 - [01-custom-controllers-and-forms.md](./06-backend-customization/01-custom-controllers-and-forms.md) : Custom Controller အသစ်၊ Form Type နှင့် Validation စည်းမျဉ်းများ ရေးသားခြင်း။
 - [02-event-subscribers-hookpoints.md](./06-backend-customization/02-event-subscribers-hookpoints.md) : EC-CUBE Event System, Event Subscriber နှင့် Hook Points အသုံးပြုပုံ။
 - [03-entity-extension-customize.md](./06-backend-customization/03-entity-extension-customize.md) : Entity Extension (Trait အသုံးပြု၍ Column အသစ်ထည့်ခြင်း) နှင့် Migration ဖန်တီး Run ခြင်း။
+- [⭐ Custom Feature & Core Override Architecture Guide](./custom-feature-and-core-override-architecture-guide.md) : **Feature သစ်ဖန်တီးခြင်းနှင့် Core Override ပြုလုပ်ခြင်းဆိုင်ရာ Folder Structure စံသတ်မှတ်ချက် Master Guide** (Entity, Repository, Service, Controller, Form Extension, Decorator ခွဲခြားသတ်မှတ်ပုံများ)။
+
 
 ### [Module 07: Plugin Development](./07-plugin-development/)
 - [01-plugin-basics-and-structure.md](./07-plugin-development/01-plugin-basics-and-structure.md) : Plugin ၏ အခြေခံသဘောတရား၊ Directory Structure နှင့် Plugin Lifecycle။
@@ -58,6 +60,11 @@
 
 ### [Module 10: Best Practices & Japanese Terms](./10-best-practices-and-japanese-terms/)
 - [01-japanese-ec-terms-and-best-practices.md](./10-best-practices-and-japanese-terms/01-japanese-ec-terms-and-best-practices.md) : ဂျပန် E-Commerce ပရောဂျက်များတွင် မဖြစ်မနေသိထားရမည့် စကားလုံးပေါင်း ၁၀၀ ကျော် (Glossary) နှင့် EC-CUBE Development Best Practices (Do's and Don'ts)။
+
+### [Module 11: Admin & Client Side Architecture and Most Used Features](./11-admin-client-architecture-and-most-used-features/)
+- [01-admin-and-front-folder-architecture.md](./11-admin-client-architecture-and-most-used-features/01-admin-and-front-folder-architecture.md) : Admin Side (管理画面) နှင့် UI Client Side (フロント画面) Folder တည်ဆောက်ပုံ စံနှုန်းများ၊ Routing၊ Form နှင့် Twig Layout နှိုင်းယှဉ်ချက်။
+- [02-most-used-features-in-ec-cube.md](./11-admin-client-architecture-and-most-used-features/02-most-used-features-in-ec-cube.md) : EC-CUBE တွင် အသုံးအများဆုံး စနစ်များ (EventSubscriber, TemplateEvent Snippets, Form/Entity Extensions, PurchaseFlow, QueryCustomizer, Console Commands, Service Decorators)။
+
 
 ---
 
